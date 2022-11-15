@@ -1,0 +1,18 @@
+title: Galois 2023
+
+description: |-
+  Covering Theory in Algebra and Geometry
+
+author:
+  name: Galois 2023
+  email: rushil_mallarapu@college.harvard.edu
+
+icon: /assets/img/favicon.ico
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+
