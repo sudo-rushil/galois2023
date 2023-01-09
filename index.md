@@ -13,8 +13,7 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLor
 
 This is an IAP 2023 topics course in the theory of Galois correspondences, a framework for studying number theory, algebraic topology, complex analysis, and algebraic geometry.
 
-<span style="color:blue">We're currently organizing everything! Click [<u>here</u>](interest.html) to RSVP for more information!</span>
-
+<!-- <span style="color:blue">We're currently organizing everything! Click [<u>here</u>](interest.html) to RSVP for more information!</span> -->
 
 We will first discuss the classical theory of (infinite) Galois extensions. Then, we will explore how the main theorem of Galois theory has an analog in the theory of covering spaces and fundamental groups. Finally, we will introduce some algebraic geometry to formulate modern versions of these correspondences via *étale fundamental groups*.
 
@@ -22,8 +21,8 @@ We will first discuss the classical theory of (infinite) Galois extensions. Then
 <b>Schedule:</b>
 
 - Dates: Jan 9th – Jan 26th
-- Meeting Times: TBD
-- Location: TBD
+- Meeting Times: M-Th 4:30-6:00 PM
+- Location: 4-153
 - Office Hours: TBD
 
 <b>Prerequisites:</b>
