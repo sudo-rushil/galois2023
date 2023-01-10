@@ -29,26 +29,20 @@ We will first discuss the classical theory of (infinite) Galois extensions. Then
 
 18.702 and 18.901, or equivalent. We will review Galois theory and topological covering spaces, but familiarity will be helpful. No prior experience with scheme theory is necessary.
 
-<b>Notes and Exericses:</b>
+<b>Notes and Exercises:</b>
 
 Roughly, we will follow parts of Szamuely's [Galois Groups and Fundamental Groups](https://doi.org/10.1017/CBO9780511627064), but with a more algebraic focus. See [<u>Resources</u>](resources.html) for lecture notes, additional references, and (optional!) problem sets.
 
-<!-- We will meet once a week on Zoom from early June to mid August. Each meeting will consist of a talk given by one of the participants, followed by a question/discussion session.  -->
-<!-- 
-<b>Schedule:</b>
+<b>Syllabus:</b>
 
-| Date | Speaker | Topic | References |
-| ---- | ------- | ----- | ---------- |
-| May 27th | | Organizational Meeting | |
-| June 2nd | Dora Woodruff | Outline & Main Results <br /> Intro to Spectra | Orange Book Ch. 1 <br /> Barnes-Roitzheim Ch. 1 |
-| June 9th | Keita Allen | Categories of Spectra <br /> Monoidal Structures | Barnes-Roitzheim Ch. 2,5,6 |
-| June 16th | Jonathan Buchanan | Bundles, Thom spaces <br /> Thom Isomorphism Theorem | Miller Ch. 6,8 |
-| June 23rd | Merrick Cai | Bousfield Localization | Barnes-Roitzheim Ch. 7 <br /> Ravenel Ch. 7 |
-| Week 5 | Kenta Suzuki | Steenrod Algebra, <br /> Adams Spectral Sequence | Barnes-Roitzheim Ch. 2.5-2.6 |
-| Week 6 | Charley Hutchinson | Formal Group Laws, <br /> Complex Orientations | Ravenel Ch. 3,4 |
-| Week 7 | Rushil Mallarapu | The Ravenel Conjectures, <br /> Chromatic Filtration | Ravenel '84 | 
-| Week 8 | Rushil Mallarapu | Proof of the Nilpotence Theorem | Devinatz-Hopkins-Smith '88' |
- -->
+| Date | Topic | References |
+| ---- | ----- | ---------- |
+| 01/09 | Algebraic and Galois extensions | Szamuely 1.1-1.2 |
+| 01/10 | Intro to category theory | Szamuely 1.4, Vakil 2.2 |
+| 01/11 | Infinite Galois theory and fiber functors | Szamuely 1.3,1.5, <br /> [Keith Conrad's notes](https://ctnt-summer.math.uconn.edu/wp-content/uploads/sites/1632/2020/06/CTNT-InfGaloisTheory.pdf) | 
+| 01/12 | Covering spaces and the monodromy action | Szamuely 2.1-2.3 |
+| 01/16 | Construction of the universal cover | Szamuely 2.4-2.5 |
+ 
 <b>Questions:</b>
 
 If you have any questions, feel free to contact either of us!
