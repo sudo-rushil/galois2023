@@ -31,6 +31,8 @@ We will first discuss the classical theory of (infinite) Galois extensions. Then
 
 <b>Notes and Exercises:</b>
 
+<span style="color:blue">Click [<u>here</u>](https://www.overleaf.com/read/fphsygbcmfkr) to access the lecture notes! These are constantly being updated!</span>
+
 Roughly, we will follow parts of Szamuely's [Galois Groups and Fundamental Groups](https://doi.org/10.1017/CBO9780511627064), but with a more algebraic focus. See [<u>Resources</u>](resources.html) for lecture notes, additional references, and (optional!) problem sets.
 
 <b>Syllabus:</b>
