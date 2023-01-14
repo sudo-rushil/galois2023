@@ -40,10 +40,10 @@ Roughly, we will follow parts of Szamuely's [Galois Groups and Fundamental Group
 | Date | Topic | References |
 | ---- | ----- | ---------- |
 | 01/09 | Algebraic and Galois extensions | Szamuely 1.1-1.2 |
-| 01/10 | Intro to category theory | Szamuely 1.4, Vakil 2.2 |
+| 01/10 | Intro to category theory | Szamuely 1.4, Vakil 2.2 <br /> [Yuyuan's notes](assets/notes/lecture2.pdf) |
 | 01/11 | Infinite Galois theory and fiber functors | Szamuely 1.3,1.5, <br /> [Keith Conrad's notes](https://ctnt-summer.math.uconn.edu/wp-content/uploads/sites/1632/2020/06/CTNT-InfGaloisTheory.pdf) | 
-| 01/12 | Covering spaces and the monodromy action | Szamuely 2.1-2.3 |
-| 01/16 | Construction of the universal cover | Szamuely 2.4-2.5 |
+| 01/12 | Covering spaces and the monodromy action | Szamuely 2.1-2.3 <br /> [Yuyuan's notes](assets/notes/lecture4.pdf) |
+| 01/17 | Construction of the universal cover | Szamuely 2.4-2.5 |
  
 <b>Questions:</b>
 
